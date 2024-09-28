@@ -1,6 +1,6 @@
 Test Card Details
-anchor image
-Credit Card
+
+--Credit Card
 “card_number”: “4208585190116667”,
 “card_type”: “CREDIT_CARD”,
 “card_issuer”: “VISA”,
